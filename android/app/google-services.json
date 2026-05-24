@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "232272148396",
+    "project_id": "vaseela-app-610c0",
+    "storage_bucket": "vaseela-app-610c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232272148396:android:f4f06b473cfa1a17bcec09",
+        "android_client_info": {
+          "package_name": "com.example.vaseela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232272148396-jv7l5vpeorr2q6qi45b02l9mfjhve6sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIXpeymBjFb9XDPSmAMjd8JJ8-1RxUs38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232272148396-jv7l5vpeorr2q6qi45b02l9mfjhve6sg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232272148396-r7he104c19c60fs3g4345ppv5c6ir0br.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vaseela"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

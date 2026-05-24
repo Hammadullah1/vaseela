@@ -1,0 +1,42 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "vaseela-app-610c0",
+          "appId": "1:232272148396:android:f4f06b473cfa1a17bcec09",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "vaseela-app-610c0",
+          "configurations": {
+            "android": "1:232272148396:android:f4f06b473cfa1a17bcec09",
+            "ios": "1:232272148396:ios:f14131be2b16ea35bcec09",
+            "macos": "1:232272148396:ios:f14131be2b16ea35bcec09",
+            "web": "1:232272148396:web:5ecccfd24042b448bcec09",
+            "windows": "1:232272148396:web:ed0d64942c44d020bcec09"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
